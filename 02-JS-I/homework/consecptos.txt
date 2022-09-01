@@ -1,0 +1,10 @@
+Variables: En las bariables existen tres tipos: la primera se le llama (var),la segunda se le llama (let),
+la tercera se llama (const), y lo que asen es guardar datos dentro de una palabra como por ejemplo comom una 
+carpeta que guarda datos y documentos bajo un nombre que queramos 
+Strings: se le llama Strings a un texto o palabras que estan entre comillas ejemplo : "hola" 
+Funciones : es como una carpeta que se encarga de agupar las variables , string etc .
+argumentos: son los datos que queremos almasenar y despues utilizarlos con diferentes datos para obtener 
+una accion  
+return: es el codigo que nos ayuda debolver el argumento de la funcion y asi tener una accion 
+Declaraciones if: el es como desir si , esto nos ayuda para las operaciones de comparasiones 
+Valores booleanos (true, false): es un codigo binario, mas simple nos ayuda activar o desactivar , tambien a desidir si es true o false.

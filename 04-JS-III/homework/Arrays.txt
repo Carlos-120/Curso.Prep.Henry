@@ -1,0 +1,5 @@
+Arrays: es un objeto que se usa en JS para la construccion de un array 
+mayor mente se utiliza para para metodos de recorrido y mutacion 
+tambien se los define como listas de alto nivel , ya que sus elementos son variables ,
+en longuitud el array puede cambiar en cualquier momento , por eso se pueden guardar en 
+elementos no continuas o ubicasiones .
